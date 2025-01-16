@@ -1,0 +1,881 @@
+product_id,product_name,category,price,stock
+2641,Mr,"Home & Kitchen",370.06,26
+2642,Program,Electronics,211.01,68
+2643,Drug,Books,469.86,1
+2644,Enjoy,Electronics,488.36,85
+2645,Best,Electronics,337.01,63
+2646,Point,Books,70.88,22
+2647,Develop,"Home & Kitchen",313.84,79
+2648,Do,Books,114.36,92
+2649,Bag,Clothing,70.03,44
+2650,Truth,Electronics,301.90,1
+2651,Here,Electronics,98.68,62
+2652,Manager,Electronics,483.63,43
+2653,Lose,Electronics,53.70,46
+2654,Option,Books,31.18,67
+2655,However,Clothing,222.91,56
+2656,Move,"Home & Kitchen",185.98,59
+2657,Wall,Books,343.91,52
+2658,Exactly,Books,107.20,56
+2659,Enjoy,Clothing,217.43,76
+2660,His,"Home & Kitchen",467.47,90
+2661,Wish,"Home & Kitchen",374.71,68
+2662,Feel,Clothing,229.01,100
+2663,Work,"Home & Kitchen",240.34,2
+2664,Different,Electronics,249.79,5
+2665,Land,"Home & Kitchen",58.73,55
+2666,Fear,Clothing,87.30,95
+2667,Guess,Clothing,177.46,13
+2668,Mission,Books,355.02,47
+2669,Measure,"Home & Kitchen",235.64,43
+2670,Seem,Clothing,112.81,87
+2671,Phone,"Home & Kitchen",108.56,89
+2672,Size,Books,54.86,17
+2673,Move,Electronics,458.64,16
+2674,Pay,Books,343.68,31
+2675,Federal,"Home & Kitchen",213.21,15
+2676,Guy,Electronics,310.83,82
+2677,Strategy,Electronics,94.21,80
+2678,Must,"Home & Kitchen",230.18,74
+2679,Indeed,Electronics,119.26,42
+2680,Guy,Clothing,449.92,56
+2681,Total,Clothing,418.35,70
+2682,Me,"Home & Kitchen",359.20,78
+2683,Pm,Electronics,170.30,97
+2684,Since,Books,93.58,46
+2685,Crime,Electronics,296.77,65
+2686,Sit,Books,199.61,71
+2687,Skin,Clothing,422.41,29
+2688,Myself,Electronics,142.52,87
+2689,Table,Clothing,468.01,80
+2690,Manager,Clothing,444.24,13
+2691,Yes,Electronics,436.03,11
+2692,Team,Books,191.26,36
+2693,Until,Clothing,49.76,44
+2694,Three,"Home & Kitchen",403.62,42
+2695,Because,"Home & Kitchen",66.93,49
+2696,Feeling,Clothing,423.06,63
+2697,Prevent,Clothing,248.68,93
+2698,Local,Clothing,192.99,52
+2699,Reach,Electronics,178.82,17
+2700,Talk,"Home & Kitchen",238.79,76
+2701,Buy,Books,275.10,61
+2702,Quickly,Clothing,258.17,4
+2703,Leader,Electronics,334.22,89
+2704,Performance,Electronics,465.88,17
+2705,Themselves,Clothing,170.27,65
+2706,Decide,Electronics,226.35,18
+2707,Research,Books,201.57,65
+2708,Expert,"Home & Kitchen",478.78,13
+2709,Major,Electronics,233.35,73
+2710,Now,Books,456.95,74
+2711,Federal,Electronics,78.28,32
+2712,Could,Electronics,365.45,80
+2713,Well,Clothing,123.99,70
+2714,White,Electronics,218.69,40
+2715,Book,Books,320.10,77
+2716,Relationship,Clothing,275.78,27
+2717,While,Clothing,27.41,39
+2718,Also,Books,374.70,48
+2719,Drug,Clothing,485.05,75
+2720,Serious,Electronics,27.15,69
+2721,Notice,Books,410.20,76
+2722,Life,Clothing,293.48,46
+2723,Outside,Books,324.89,91
+2724,Energy,Electronics,287.28,52
+2725,Sport,Clothing,194.08,85
+2726,Pm,Clothing,411.10,99
+2727,Nothing,Clothing,90.83,1
+2728,Window,"Home & Kitchen",143.96,26
+2729,Condition,Electronics,330.02,99
+2730,Quickly,Electronics,247.07,32
+2731,Support,Electronics,234.69,83
+2732,Mouth,"Home & Kitchen",465.70,86
+2733,Available,Books,319.92,67
+2734,Investment,Electronics,106.16,85
+2735,Rather,Electronics,56.93,66
+2736,Instead,Electronics,258.53,11
+2737,Line,Books,83.28,8
+2738,Near,Electronics,314.01,77
+2739,Surface,Electronics,325.39,59
+2740,Investment,Clothing,131.15,8
+2741,Practice,Clothing,262.45,71
+2742,Also,Books,155.47,36
+2743,Watch,"Home & Kitchen",258.64,9
+2744,Class,"Home & Kitchen",193.00,54
+2745,Its,Electronics,79.38,25
+2746,Everything,"Home & Kitchen",26.71,95
+2747,Statement,Clothing,341.28,67
+2748,School,"Home & Kitchen",137.61,7
+2749,Respond,"Home & Kitchen",59.35,34
+2750,Concern,Electronics,462.58,66
+2751,Allow,Electronics,136.05,85
+2752,While,Clothing,68.40,1
+2753,Give,Books,367.04,34
+2754,Beyond,"Home & Kitchen",365.32,47
+2755,Treatment,Clothing,82.53,56
+2756,Become,Books,451.51,45
+2757,Teach,Clothing,326.92,11
+2758,Away,"Home & Kitchen",92.80,78
+2759,Model,Clothing,165.82,69
+2760,Magazine,Books,385.95,33
+2761,Exist,"Home & Kitchen",28.77,4
+2762,Local,"Home & Kitchen",79.08,4
+2763,Have,Books,281.55,39
+2764,During,Clothing,214.35,69
+2765,Board,Clothing,315.31,99
+2766,Decade,"Home & Kitchen",330.98,48
+2767,All,Electronics,68.49,20
+2768,Forget,Books,410.74,4
+2769,Who,Electronics,302.69,82
+2770,Network,"Home & Kitchen",225.04,0
+2771,Future,Clothing,326.56,50
+2772,Entire,Clothing,328.09,47
+2773,Win,Books,237.15,53
+2774,Ability,Electronics,299.40,8
+2775,Where,Books,47.02,66
+2776,Right,Clothing,20.91,22
+2777,Doctor,Electronics,267.26,28
+2778,Read,Clothing,443.60,62
+2779,Book,"Home & Kitchen",32.65,72
+2780,Personal,Electronics,248.32,69
+2781,Region,Clothing,482.70,68
+2782,Good,Clothing,68.83,38
+2783,Drop,Electronics,350.40,16
+2784,Hospital,Books,258.83,40
+2785,Age,"Home & Kitchen",364.44,100
+2786,Season,"Home & Kitchen",232.83,65
+2787,Door,"Home & Kitchen",113.65,75
+2788,Animal,Electronics,14.24,8
+2789,Performance,"Home & Kitchen",127.93,21
+2790,Us,"Home & Kitchen",105.96,10
+2791,There,Electronics,445.58,5
+2792,Night,"Home & Kitchen",34.32,33
+2793,Wear,Electronics,193.12,23
+2794,Ever,Books,116.95,93
+2795,Strategy,Electronics,130.15,71
+2796,Center,Clothing,333.41,9
+2797,Role,Books,297.85,71
+2798,Argue,Clothing,453.57,35
+2799,Real,"Home & Kitchen",234.29,92
+2800,Music,Books,46.40,0
+2801,Ok,"Home & Kitchen",402.69,8
+2802,Future,Books,486.90,49
+2803,Drive,Clothing,147.93,11
+2804,Gun,Electronics,227.50,25
+2805,Everybody,Electronics,326.93,97
+2806,Art,"Home & Kitchen",209.51,42
+2807,Message,Electronics,389.26,14
+2808,Possible,"Home & Kitchen",331.08,26
+2809,Tax,Books,406.52,88
+2810,Must,Books,38.07,3
+2811,Activity,Books,21.95,42
+2812,Fast,Clothing,116.14,42
+2813,Boy,Electronics,55.45,96
+2814,Character,Books,73.19,94
+2815,Lay,"Home & Kitchen",19.21,73
+2816,Budget,Clothing,185.51,55
+2817,Provide,Electronics,414.37,16
+2818,Others,Clothing,69.82,68
+2819,Skill,Clothing,262.59,55
+2820,Idea,Books,486.54,61
+2821,Human,Electronics,273.74,45
+2822,Draw,"Home & Kitchen",153.51,80
+2823,Exist,"Home & Kitchen",95.36,62
+2824,Yet,Books,365.17,90
+2825,Particularly,"Home & Kitchen",273.57,99
+2826,Return,"Home & Kitchen",330.33,38
+2827,Us,Electronics,307.82,58
+2828,Any,Clothing,89.37,64
+2829,Behavior,Electronics,388.68,19
+2830,Music,"Home & Kitchen",104.21,4
+2831,Picture,Clothing,468.19,36
+2832,Produce,"Home & Kitchen",253.20,42
+2833,Leader,"Home & Kitchen",248.06,79
+2834,Information,"Home & Kitchen",139.60,50
+2835,Record,Clothing,281.51,21
+2836,Time,Electronics,51.45,39
+2837,Property,Books,260.23,9
+2838,Thus,Electronics,19.46,28
+2839,Group,Books,336.14,25
+2840,Physical,Electronics,45.83,59
+2841,Mean,Books,333.05,41
+2842,Join,"Home & Kitchen",213.64,77
+2843,Store,Books,116.17,15
+2844,From,Electronics,364.99,23
+2845,Class,Books,436.61,13
+2846,Amount,Clothing,416.57,58
+2847,Performance,Books,330.25,87
+2848,Discussion,"Home & Kitchen",168.17,91
+2849,Thousand,Electronics,442.39,18
+2850,Argue,"Home & Kitchen",377.06,59
+2851,Prevent,"Home & Kitchen",323.59,61
+2852,Foot,Electronics,255.28,91
+2853,Property,Books,488.42,93
+2854,Within,Electronics,97.01,23
+2855,Every,Clothing,395.81,8
+2856,Bad,Clothing,163.02,94
+2857,Campaign,Clothing,424.39,33
+2858,Green,Books,18.11,53
+2859,Will,Clothing,328.79,11
+2860,Western,Books,251.09,15
+2861,Plan,Clothing,76.39,41
+2862,Early,Clothing,150.23,66
+2863,Final,Electronics,78.14,98
+2864,Office,Clothing,110.37,15
+2865,Bed,"Home & Kitchen",443.33,25
+2866,Defense,"Home & Kitchen",68.78,36
+2867,Five,Electronics,310.31,34
+2868,Defense,Electronics,301.50,13
+2869,Executive,Books,499.69,3
+2870,Sit,Books,266.31,51
+2871,Discuss,Books,16.80,71
+2872,Without,Electronics,70.16,19
+2873,Analysis,"Home & Kitchen",365.45,39
+2874,Policy,Books,373.23,98
+2875,Cover,Electronics,60.84,98
+2876,Positive,Books,269.54,99
+2877,Yeah,Clothing,160.37,67
+2878,Product,Electronics,277.55,24
+2879,Yes,"Home & Kitchen",361.61,58
+2880,Mouth,"Home & Kitchen",143.26,80
+2881,Task,Electronics,428.76,63
+2882,Give,Books,43.08,84
+2883,Long,Clothing,41.95,95
+2884,Something,Books,286.10,39
+2885,There,"Home & Kitchen",451.90,33
+2886,Tree,Clothing,494.13,72
+2887,Art,Clothing,146.60,2
+2888,Defense,"Home & Kitchen",392.98,98
+2889,Raise,Books,22.21,59
+2890,Election,Electronics,191.98,90
+2891,Hospital,"Home & Kitchen",125.09,16
+2892,Explain,Clothing,341.96,80
+2893,Get,Electronics,166.72,49
+2894,Moment,"Home & Kitchen",308.86,72
+2895,Operation,"Home & Kitchen",466.66,19
+2896,Law,Electronics,421.57,64
+2897,Face,Electronics,200.65,53
+2898,Next,Clothing,303.23,99
+2899,Its,Electronics,446.40,82
+2900,President,Clothing,123.94,58
+2901,Choice,"Home & Kitchen",119.57,65
+2902,Around,Clothing,174.24,27
+2903,Include,Books,211.27,25
+2904,Media,Books,106.67,30
+2905,Ready,Clothing,455.15,23
+2906,Difficult,Clothing,177.09,5
+2907,Business,Clothing,354.25,35
+2908,Less,Books,227.39,26
+2909,Why,Clothing,102.01,95
+2910,Center,Books,388.25,49
+2911,Last,Books,287.61,45
+2912,Pay,Books,279.30,1
+2913,Hard,"Home & Kitchen",158.50,71
+2914,Approach,"Home & Kitchen",483.20,51
+2915,Face,"Home & Kitchen",236.14,35
+2916,Quickly,Books,358.25,87
+2917,Pm,Books,31.66,27
+2918,Each,Books,60.83,45
+2919,Box,Electronics,33.98,37
+2920,Camera,Electronics,307.68,98
+2921,Much,Books,284.21,41
+2922,Real,"Home & Kitchen",286.25,59
+2923,Outside,Electronics,358.31,63
+2924,Interesting,"Home & Kitchen",185.86,53
+2925,Expect,Books,201.64,9
+2926,Style,Books,475.43,30
+2927,Avoid,Clothing,479.82,85
+2928,First,Electronics,490.73,66
+2929,Fast,Clothing,217.56,13
+2930,Democratic,"Home & Kitchen",476.87,66
+2931,Pressure,Books,52.43,1
+2932,Fall,Clothing,152.50,84
+2933,Attorney,"Home & Kitchen",288.87,63
+2934,Pretty,"Home & Kitchen",49.45,56
+2935,Establish,Electronics,194.58,85
+2936,He,Books,352.25,93
+2937,Indeed,Electronics,53.62,16
+2938,Control,Books,247.62,93
+2939,Middle,Electronics,328.44,19
+2940,Far,Clothing,394.83,37
+2941,Ago,"Home & Kitchen",339.64,83
+2942,Else,Clothing,148.78,100
+2943,Go,Clothing,63.60,26
+2944,Room,Books,443.32,24
+2945,Talk,Clothing,393.11,83
+2946,Structure,"Home & Kitchen",434.35,74
+2947,Kind,Books,86.91,90
+2948,Road,Electronics,324.77,68
+2949,His,Books,38.09,21
+2950,Finally,"Home & Kitchen",439.33,74
+2951,Age,Clothing,193.18,75
+2952,High,Clothing,230.00,23
+2953,Structure,Clothing,120.54,59
+2954,Treat,Electronics,183.21,34
+2955,Debate,Clothing,359.54,31
+2956,This,"Home & Kitchen",179.39,65
+2957,Voice,Clothing,319.24,53
+2958,Husband,"Home & Kitchen",213.75,69
+2959,Drive,Clothing,174.66,75
+2960,Out,Books,109.15,3
+2961,Air,"Home & Kitchen",390.03,4
+2962,Value,"Home & Kitchen",11.40,37
+2963,For,Clothing,146.42,52
+2964,Budget,Clothing,90.83,53
+2965,Build,"Home & Kitchen",144.85,92
+2966,Else,Clothing,267.21,96
+2967,Support,Books,150.74,84
+2968,Feel,Electronics,442.18,96
+2969,Start,Books,496.27,72
+2970,Carry,Clothing,10.70,85
+2971,Democrat,Clothing,312.74,69
+2972,Long,"Home & Kitchen",432.29,18
+2973,Ahead,Books,50.52,4
+2974,Similar,"Home & Kitchen",462.48,3
+2975,Join,Clothing,297.21,28
+2976,Something,Clothing,381.54,63
+2977,Speech,Clothing,302.93,82
+2978,Modern,Books,391.22,24
+2979,Maybe,Books,428.46,93
+2980,Life,Electronics,140.38,16
+2981,They,"Home & Kitchen",288.48,47
+2982,Us,"Home & Kitchen",321.87,100
+2983,Mean,"Home & Kitchen",333.37,68
+2984,Hold,"Home & Kitchen",444.80,14
+2985,Share,Clothing,409.29,38
+2986,Experience,"Home & Kitchen",217.20,79
+2987,Painting,Electronics,263.83,11
+2988,Always,Electronics,390.05,27
+2989,Treatment,Books,252.40,84
+2990,School,"Home & Kitchen",26.58,84
+2991,Contain,Electronics,169.64,84
+2992,Analysis,"Home & Kitchen",396.71,42
+2993,Serve,Clothing,424.09,2
+2994,Just,"Home & Kitchen",295.48,65
+2995,Think,Electronics,63.42,41
+2996,Role,Clothing,400.34,96
+2997,Help,Clothing,171.89,5
+2998,Month,Books,455.98,57
+2999,Point,Books,428.48,77
+3000,Fly,"Home & Kitchen",44.13,36
+3001,Gas,Electronics,391.53,99
+3002,Exist,"Home & Kitchen",317.73,1
+3003,Situation,"Home & Kitchen",357.94,57
+3004,Call,Electronics,190.35,93
+3005,Same,Clothing,43.27,33
+3006,Who,Books,469.32,43
+3007,Practice,Electronics,281.42,72
+3008,Clear,Books,175.25,71
+3009,Up,Books,402.91,80
+3010,Central,"Home & Kitchen",115.23,21
+3011,Dream,Clothing,161.17,98
+3012,Design,Books,80.92,74
+3013,Loss,"Home & Kitchen",449.17,15
+3014,Individual,"Home & Kitchen",122.73,42
+3015,Town,Clothing,453.19,53
+3016,Society,Clothing,397.97,96
+3017,Consider,Books,280.31,15
+3018,Thousand,"Home & Kitchen",172.17,75
+3019,Explain,"Home & Kitchen",18.73,68
+3020,Argue,Books,112.22,47
+3021,Age,Electronics,159.92,23
+3022,Everybody,"Home & Kitchen",424.63,75
+3023,Garden,Books,113.55,49
+3024,Affect,Electronics,463.59,90
+3025,Sure,Books,486.45,69
+3026,Detail,Electronics,480.56,66
+3027,Opportunity,Clothing,340.91,65
+3028,Only,"Home & Kitchen",451.97,84
+3029,Body,Electronics,240.57,5
+3030,Hit,Books,260.78,36
+3031,Training,"Home & Kitchen",143.35,11
+3032,Economic,Clothing,119.23,28
+3033,Article,"Home & Kitchen",143.00,30
+3034,Center,"Home & Kitchen",402.13,9
+3035,Read,Books,41.05,51
+3036,Rise,Electronics,446.31,0
+3037,Family,"Home & Kitchen",229.73,8
+3038,Everybody,Clothing,75.99,49
+3039,Under,Electronics,445.69,43
+3040,Clear,"Home & Kitchen",138.26,98
+3041,Own,Books,296.92,54
+3042,Single,Books,352.13,36
+3043,See,"Home & Kitchen",149.93,42
+3044,Administration,"Home & Kitchen",266.42,31
+3045,Less,Clothing,463.49,45
+3046,Talk,Books,255.16,67
+3047,Sign,Electronics,66.91,3
+3048,Imagine,Electronics,78.83,29
+3049,Face,Clothing,125.51,69
+3050,Visit,"Home & Kitchen",47.42,47
+3051,If,"Home & Kitchen",412.39,26
+3052,Or,Electronics,339.66,23
+3053,Color,Electronics,298.34,43
+3054,Social,Clothing,326.15,20
+3055,Choice,Books,487.63,9
+3056,Challenge,Electronics,392.04,83
+3057,Writer,Clothing,473.18,81
+3058,Past,"Home & Kitchen",389.56,21
+3059,Professor,Clothing,115.57,87
+3060,Analysis,Clothing,260.16,64
+3061,Behavior,Clothing,201.64,36
+3062,Paper,"Home & Kitchen",474.53,77
+3063,Hear,"Home & Kitchen",145.67,92
+3064,Media,Electronics,307.57,49
+3065,Goal,"Home & Kitchen",405.43,9
+3066,Check,Books,217.72,40
+3067,Century,Books,366.74,44
+3068,Standard,"Home & Kitchen",113.60,73
+3069,Oil,"Home & Kitchen",413.35,80
+3070,Authority,Books,330.65,11
+3071,This,Clothing,170.90,8
+3072,Often,Clothing,317.71,46
+3073,Better,Clothing,315.50,19
+3074,Meet,"Home & Kitchen",252.42,55
+3075,Democratic,Clothing,52.40,14
+3076,Economic,Electronics,79.69,84
+3077,Question,"Home & Kitchen",94.14,31
+3078,Open,"Home & Kitchen",339.90,57
+3079,Foreign,Clothing,471.82,62
+3080,Store,Books,85.74,43
+3081,Page,Electronics,354.83,63
+3082,Drop,"Home & Kitchen",184.10,45
+3083,Edge,"Home & Kitchen",421.38,39
+3084,Better,Clothing,112.47,18
+3085,Agreement,"Home & Kitchen",153.66,47
+3086,Democrat,Books,81.20,16
+3087,Heart,Electronics,25.57,96
+3088,Deal,Clothing,116.93,7
+3089,Always,Clothing,191.59,48
+3090,Church,Clothing,408.96,73
+3091,Artist,Electronics,289.37,63
+3092,Toward,"Home & Kitchen",441.55,30
+3093,Attorney,"Home & Kitchen",235.68,58
+3094,Economic,Electronics,20.15,30
+3095,Win,Clothing,242.49,87
+3096,Week,Clothing,453.10,78
+3097,Realize,Electronics,19.70,14
+3098,Tonight,"Home & Kitchen",348.12,29
+3099,May,Electronics,291.20,90
+3100,Know,"Home & Kitchen",432.96,30
+3101,Blood,"Home & Kitchen",186.67,77
+3102,Describe,Electronics,349.22,78
+3103,Election,Electronics,148.40,2
+3104,Response,Books,136.27,62
+3105,Eye,Books,209.32,40
+3106,Until,Clothing,230.16,57
+3107,Western,Books,404.17,87
+3108,Soon,Books,367.38,27
+3109,Professional,Books,55.52,22
+3110,Every,"Home & Kitchen",22.55,66
+3111,Yourself,Books,66.05,83
+3112,Dream,Clothing,383.84,16
+3113,Evidence,Clothing,156.36,20
+3114,Hundred,Books,365.20,57
+3115,Huge,Clothing,357.17,52
+3116,Assume,"Home & Kitchen",98.09,14
+3117,Material,Electronics,30.97,2
+3118,Management,Electronics,282.82,18
+3119,Recognize,Electronics,249.09,36
+3120,Campaign,Electronics,396.82,35
+3121,Letter,Clothing,100.82,86
+3122,Camera,Electronics,199.97,74
+3123,Program,Clothing,481.72,68
+3124,Pressure,"Home & Kitchen",70.92,65
+3125,Tax,Electronics,160.18,64
+3126,Image,Electronics,46.50,70
+3127,Receive,Clothing,251.55,63
+3128,Range,Electronics,349.57,78
+3129,Between,Books,105.37,20
+3130,Training,Electronics,303.38,60
+3131,Life,Clothing,389.85,0
+3132,Public,"Home & Kitchen",67.20,89
+3133,Push,Electronics,189.65,84
+3134,Increase,Electronics,224.75,40
+3135,Peace,Books,87.25,82
+3136,Later,Books,163.09,74
+3137,From,"Home & Kitchen",472.15,58
+3138,Under,"Home & Kitchen",199.46,19
+3139,Include,"Home & Kitchen",240.08,31
+3140,Probably,"Home & Kitchen",101.31,39
+3141,Summer,Clothing,41.77,67
+3142,Reduce,Clothing,265.91,10
+3143,Coach,Clothing,26.57,89
+3144,Just,Electronics,287.83,68
+3145,Finally,Clothing,153.84,94
+3146,Do,"Home & Kitchen",311.94,84
+3147,Tv,Books,98.64,62
+3148,But,"Home & Kitchen",270.04,97
+3149,Dog,Books,209.40,44
+3150,Your,Books,95.50,71
+3151,System,Clothing,237.36,57
+3152,Tree,Electronics,336.45,23
+3153,Though,Clothing,384.72,71
+3154,Wait,"Home & Kitchen",445.70,94
+3155,White,Books,324.92,68
+3156,Fish,Clothing,278.75,5
+3157,Long,"Home & Kitchen",324.78,9
+3158,Rich,Books,357.00,4
+3159,Choice,"Home & Kitchen",418.40,68
+3160,Attention,Electronics,112.06,9
+3161,Music,Books,479.63,43
+3162,Gas,Books,347.41,0
+3163,Consider,Books,264.45,16
+3164,Discuss,"Home & Kitchen",360.51,90
+3165,Series,"Home & Kitchen",332.83,86
+3166,Little,Books,85.33,71
+3167,Step,"Home & Kitchen",232.09,0
+3168,Where,"Home & Kitchen",43.17,81
+3169,Strategy,Clothing,342.67,59
+3170,Who,Electronics,400.60,5
+3171,Result,Books,233.27,85
+3172,Whom,"Home & Kitchen",491.05,30
+3173,Page,Electronics,154.33,94
+3174,Say,Books,358.28,69
+3175,Commercial,"Home & Kitchen",443.15,83
+3176,Collection,Books,255.28,58
+3177,Character,Books,211.79,51
+3178,Tax,"Home & Kitchen",186.20,43
+3179,More,Clothing,156.11,83
+3180,Since,Books,475.33,100
+3181,Task,"Home & Kitchen",261.79,30
+3182,Fight,Clothing,231.31,31
+3183,Factor,"Home & Kitchen",337.40,50
+3184,Sit,Clothing,48.84,86
+3185,Own,"Home & Kitchen",25.24,60
+3186,Allow,Books,227.38,78
+3187,Attorney,Electronics,165.80,31
+3188,His,Books,297.04,10
+3189,Protect,Books,228.86,53
+3190,Protect,Books,298.02,69
+3191,Why,"Home & Kitchen",317.07,12
+3192,Management,Books,357.32,60
+3193,Way,Electronics,259.14,39
+3194,Not,Books,334.01,19
+3195,Great,Books,66.13,3
+3196,Goal,"Home & Kitchen",404.35,25
+3197,Several,"Home & Kitchen",110.96,59
+3198,Political,Books,469.66,37
+3199,Team,Electronics,211.22,41
+3200,Green,Clothing,480.99,6
+3201,Happen,Clothing,181.53,94
+3202,Degree,Books,148.06,34
+3203,Cold,"Home & Kitchen",194.86,6
+3204,Account,Electronics,25.31,12
+3205,Buy,Clothing,119.80,87
+3206,Do,"Home & Kitchen",435.57,90
+3207,Local,Electronics,154.68,46
+3208,Assume,"Home & Kitchen",29.53,30
+3209,Trade,"Home & Kitchen",36.51,0
+3210,Get,"Home & Kitchen",246.30,17
+3211,Decision,"Home & Kitchen",338.27,96
+3212,Involve,Electronics,387.22,41
+3213,Size,"Home & Kitchen",79.68,80
+3214,Outside,Books,311.33,7
+3215,International,"Home & Kitchen",140.74,48
+3216,My,Clothing,439.67,51
+3217,Pull,Clothing,213.98,76
+3218,Year,Clothing,67.10,20
+3219,Full,Electronics,348.20,71
+3220,Safe,Electronics,429.27,98
+3221,Institution,Books,100.05,35
+3222,Yard,"Home & Kitchen",432.09,94
+3223,Evening,Clothing,353.92,55
+3224,Hard,Books,370.77,90
+3225,Couple,Electronics,382.30,95
+3226,As,"Home & Kitchen",340.44,17
+3227,Reduce,"Home & Kitchen",464.29,22
+3228,Sort,Clothing,427.15,20
+3229,Card,Clothing,114.78,69
+3230,Small,Clothing,184.30,30
+3231,Avoid,Clothing,405.51,40
+3232,Large,Clothing,287.21,78
+3233,Conference,Electronics,487.98,60
+3234,Service,Clothing,477.22,15
+3235,Fish,Electronics,380.84,60
+3236,Seem,Books,141.20,48
+3237,Information,"Home & Kitchen",68.48,39
+3238,Conference,Clothing,338.28,93
+3239,Billion,Books,405.78,67
+3240,Between,Books,274.20,74
+3241,Discuss,Electronics,293.84,96
+3242,Body,Books,144.46,71
+3243,Know,Clothing,231.62,93
+3244,Share,Clothing,277.02,54
+3245,Other,Clothing,414.36,40
+3246,Forget,Books,390.91,88
+3247,Ability,Books,107.13,41
+3248,Fear,Electronics,112.66,84
+3249,Author,Books,89.70,58
+3250,Early,Books,139.04,100
+3251,Card,Clothing,135.53,89
+3252,Behind,"Home & Kitchen",320.11,67
+3253,Ok,Electronics,174.60,61
+3254,Article,Clothing,213.26,20
+3255,Structure,Clothing,174.20,60
+3256,Fight,Books,423.60,51
+3257,Lay,Books,301.72,18
+3258,Price,Books,190.19,3
+3259,With,Clothing,396.91,83
+3260,Little,"Home & Kitchen",325.01,1
+3261,Turn,Books,171.51,51
+3262,Imagine,Books,258.88,25
+3263,Decide,"Home & Kitchen",171.04,96
+3264,Thus,Books,357.52,33
+3265,Speech,Electronics,159.69,84
+3266,Case,Electronics,407.16,71
+3267,Possible,Clothing,198.47,40
+3268,Sit,Electronics,415.04,43
+3269,Side,Books,235.59,7
+3270,Health,Books,158.29,86
+3271,However,Clothing,317.21,0
+3272,Run,Books,255.30,62
+3273,State,Electronics,381.34,60
+3274,Not,"Home & Kitchen",249.22,18
+3275,School,Electronics,305.40,33
+3276,Structure,"Home & Kitchen",292.26,29
+3277,Fund,Clothing,178.09,30
+3278,Worry,Electronics,405.41,40
+3279,Authority,Clothing,473.40,89
+3280,End,Clothing,95.83,4
+3281,That,Clothing,17.35,78
+3282,Would,"Home & Kitchen",486.85,75
+3283,Pick,"Home & Kitchen",26.24,98
+3284,Across,"Home & Kitchen",480.24,47
+3285,Glass,"Home & Kitchen",387.39,22
+3286,War,"Home & Kitchen",428.34,84
+3287,Himself,Books,390.54,31
+3288,Audience,"Home & Kitchen",47.66,71
+3289,Drive,Electronics,422.70,28
+3290,Door,"Home & Kitchen",52.41,53
+3291,Bag,Books,345.07,6
+3292,Wonder,"Home & Kitchen",129.72,41
+3293,Break,Electronics,237.41,49
+3294,Seven,Electronics,162.96,33
+3295,Trial,"Home & Kitchen",279.35,20
+3296,Store,"Home & Kitchen",285.42,60
+3297,Market,Books,309.85,1
+3298,Beyond,Electronics,367.64,50
+3299,Shoulder,Clothing,127.85,17
+3300,Father,Books,61.62,46
+3301,Space,Clothing,290.32,68
+3302,Individual,"Home & Kitchen",39.83,16
+3303,Gun,Electronics,358.13,2
+3304,Feel,Electronics,433.72,20
+3305,Laugh,Clothing,379.88,44
+3306,Nor,Books,70.37,11
+3307,Who,Clothing,409.59,68
+3308,Else,Clothing,24.51,44
+3309,Cost,Clothing,193.70,66
+3310,Walk,Clothing,315.62,13
+3311,Both,Electronics,198.76,97
+3312,Cultural,"Home & Kitchen",402.96,14
+3313,Administration,"Home & Kitchen",481.97,62
+3314,Cold,"Home & Kitchen",124.25,11
+3315,Rich,"Home & Kitchen",57.05,86
+3316,Heart,Books,445.96,28
+3317,Home,Clothing,311.31,38
+3318,Fact,Electronics,224.40,20
+3319,Say,Electronics,448.57,66
+3320,Name,Books,109.15,92
+3321,Any,Clothing,288.58,18
+3322,Around,Clothing,477.32,84
+3323,Cover,Books,79.63,0
+3324,Human,Clothing,378.81,61
+3325,Everybody,Books,88.11,52
+3326,Point,Books,93.30,4
+3327,Job,Clothing,465.42,31
+3328,Call,"Home & Kitchen",411.82,56
+3329,Fear,"Home & Kitchen",285.35,79
+3330,Mean,Books,339.98,96
+3331,Court,Clothing,223.59,26
+3332,Yet,Electronics,466.46,95
+3333,Wonder,Electronics,29.07,73
+3334,Sure,Books,300.45,54
+3335,Hot,Electronics,358.83,58
+3336,Road,Clothing,218.00,33
+3337,Design,Books,47.84,27
+3338,None,Electronics,265.97,70
+3339,Born,Clothing,101.58,37
+3340,Thing,Electronics,272.41,41
+3341,Although,Clothing,271.79,36
+3342,Eight,Clothing,172.77,76
+3343,Investment,"Home & Kitchen",89.66,36
+3344,Share,Books,311.12,28
+3345,Too,Books,499.91,39
+3346,Talk,Clothing,109.06,4
+3347,May,Books,67.23,8
+3348,Lose,Electronics,87.90,76
+3349,Before,"Home & Kitchen",342.29,84
+3350,Top,Books,177.93,43
+3351,Where,Clothing,452.40,64
+3352,Attack,Clothing,462.88,67
+3353,Clear,Electronics,254.18,13
+3354,Page,Books,181.00,48
+3355,Approach,"Home & Kitchen",390.22,62
+3356,Much,Electronics,307.91,72
+3357,Ok,"Home & Kitchen",441.51,29
+3358,Need,Clothing,436.71,30
+3359,Enter,"Home & Kitchen",476.35,23
+3360,Great,Clothing,314.94,59
+3361,Black,"Home & Kitchen",154.11,20
+3362,Loss,Clothing,17.56,15
+3363,Send,"Home & Kitchen",386.01,61
+3364,Report,Clothing,169.26,63
+3365,Owner,Clothing,191.55,67
+3366,Challenge,Electronics,104.87,43
+3367,Ago,Books,137.02,54
+3368,Raise,Books,254.02,85
+3369,Meeting,Clothing,144.34,39
+3370,Race,Books,288.08,72
+3371,Discuss,Electronics,127.68,73
+3372,Agree,Electronics,233.18,86
+3373,Environmental,Electronics,203.09,79
+3374,Skin,Clothing,48.02,29
+3375,Join,"Home & Kitchen",30.84,92
+3376,Believe,Electronics,157.48,87
+3377,Fast,Electronics,135.46,61
+3378,Tend,Books,303.96,54
+3379,White,Electronics,288.74,68
+3380,Man,Clothing,448.55,42
+3381,Someone,Clothing,142.70,74
+3382,Important,Books,243.15,86
+3383,Along,Clothing,25.98,43
+3384,Center,Clothing,128.37,66
+3385,Leave,"Home & Kitchen",125.36,56
+3386,Important,Books,471.46,96
+3387,Note,Electronics,234.90,61
+3388,Check,Clothing,298.07,70
+3389,Accept,"Home & Kitchen",75.81,78
+3390,Idea,Books,53.75,44
+3391,Start,Clothing,399.07,44
+3392,Decision,Clothing,107.45,44
+3393,Every,Electronics,57.53,44
+3394,Issue,Electronics,253.55,98
+3395,Total,Books,302.36,62
+3396,Site,"Home & Kitchen",288.00,80
+3397,Beat,Electronics,161.89,43
+3398,Guy,"Home & Kitchen",77.62,37
+3399,While,Clothing,263.61,85
+3400,Choose,Books,188.29,41
+3401,Son,"Home & Kitchen",402.99,53
+3402,Economic,Electronics,220.41,17
+3403,Such,Books,173.10,49
+3404,Toward,Clothing,346.58,48
+3405,End,Books,113.84,58
+3406,Personal,"Home & Kitchen",370.77,32
+3407,Quality,Books,329.70,64
+3408,Garden,Clothing,46.77,79
+3409,Product,Electronics,472.17,39
+3410,Create,"Home & Kitchen",108.44,25
+3411,Citizen,Books,321.46,15
+3412,Claim,Clothing,132.54,65
+3413,Daughter,Electronics,350.27,31
+3414,Born,"Home & Kitchen",405.13,89
+3415,Imagine,Clothing,22.07,82
+3416,National,Clothing,451.43,7
+3417,High,Books,473.92,33
+3418,Strategy,"Home & Kitchen",165.84,61
+3419,Media,"Home & Kitchen",334.59,26
+3420,Rest,"Home & Kitchen",149.36,88
+3421,Leave,Books,172.36,31
+3422,We,Books,339.75,6
+3423,Thousand,"Home & Kitchen",244.20,99
+3424,Condition,Clothing,386.18,64
+3425,Society,"Home & Kitchen",231.23,26
+3426,Sign,"Home & Kitchen",202.35,43
+3427,Information,Books,469.19,10
+3428,Provide,"Home & Kitchen",208.24,26
+3429,Rate,"Home & Kitchen",308.43,25
+3430,We,Electronics,292.64,65
+3431,Spend,"Home & Kitchen",214.95,47
+3432,Professional,Electronics,329.93,0
+3433,Recent,"Home & Kitchen",317.65,17
+3434,Always,Books,328.47,11
+3435,Hard,Clothing,34.73,8
+3436,Color,"Home & Kitchen",386.44,84
+3437,Participant,Clothing,131.13,12
+3438,Agree,Electronics,98.16,68
+3439,Anyone,Books,323.28,80
+3440,Its,Clothing,410.60,77
+3441,Institution,Books,135.07,23
+3442,Person,Clothing,295.28,86
+3443,Amount,"Home & Kitchen",228.80,81
+3444,Admit,"Home & Kitchen",359.85,43
+3445,Themselves,Electronics,100.67,84
+3446,Stop,Electronics,221.75,2
+3447,In,Books,365.06,50
+3448,Seven,Clothing,322.18,23
+3449,Start,Electronics,76.18,51
+3450,Head,"Home & Kitchen",384.08,67
+3451,Magazine,Clothing,167.37,50
+3452,Last,Clothing,425.95,6
+3453,Officer,Books,329.78,86
+3454,Professional,Books,305.29,93
+3455,Box,Clothing,234.79,1
+3456,Upon,Electronics,61.09,83
+3457,Three,Books,318.64,22
+3458,Poor,"Home & Kitchen",435.25,41
+3459,Doctor,Electronics,318.91,12
+3460,Guess,Clothing,298.42,46
+3461,Remain,"Home & Kitchen",375.73,21
+3462,May,Books,409.13,70
+3463,Since,Electronics,421.95,96
+3464,Culture,Electronics,196.16,65
+3465,Among,Books,439.38,11
+3466,Song,Books,105.58,70
+3467,Behavior,Electronics,11.22,24
+3468,Down,Books,18.46,88
+3469,Region,Clothing,254.06,100
+3470,Place,Electronics,291.11,78
+3471,Technology,"Home & Kitchen",325.98,73
+3472,Community,"Home & Kitchen",56.93,74
+3473,Talk,"Home & Kitchen",287.06,49
+3474,Professor,Electronics,283.70,45
+3475,No,"Home & Kitchen",445.09,18
+3476,Woman,Clothing,336.72,76
+3477,Human,Clothing,466.95,18
+3478,Listen,"Home & Kitchen",456.09,77
+3479,Nice,"Home & Kitchen",401.65,49
+3480,Cell,Clothing,42.97,37
+3481,Never,Clothing,450.82,54
+3482,Computer,"Home & Kitchen",239.91,71
+3483,Show,"Home & Kitchen",401.74,93
+3484,Throughout,Books,410.91,5
+3485,People,Electronics,400.07,9
+3486,Letter,Books,440.38,11
+3487,Return,"Home & Kitchen",140.76,38
+3488,Sit,Electronics,349.38,77
+3489,Half,"Home & Kitchen",495.49,0
+3490,Study,"Home & Kitchen",14.31,60
+3491,Social,Books,305.53,98
+3492,Cause,Clothing,75.70,86
+3493,Performance,Clothing,425.16,40
+3494,Strong,"Home & Kitchen",192.79,43
+3495,Doctor,Clothing,66.08,80
+3496,However,Clothing,367.34,20
+3497,Southern,"Home & Kitchen",42.46,20
+3498,Although,Clothing,239.30,17
+3499,Alone,"Home & Kitchen",494.79,33
+3500,We,Books,389.76,10
+3501,Money,Electronics,165.91,18
+3502,Find,Books,427.75,75
+3503,Program,Electronics,89.20,7
+3504,Mrs,"Home & Kitchen",360.13,47
+3505,Happen,"Home & Kitchen",448.30,28
+3506,Perhaps,Electronics,415.16,77
+3507,Weight,Books,418.88,74
+3508,Pretty,Books,255.87,41
+3509,Stand,Clothing,383.39,26
+3510,Senior,Books,471.17,24
+3511,Nothing,Electronics,259.44,95
+3512,New,Electronics,121.25,13
+3513,Seven,Electronics,333.68,5
+3514,Current,Electronics,286.14,19
+3515,Read,Books,303.56,86
+3516,Attention,Clothing,432.67,31
+3517,Character,Clothing,237.28,6
+3518,Customer,"Home & Kitchen",13.03,84
+3519,Use,Electronics,111.19,34
+3520,Mr,Electronics,160.83,13
